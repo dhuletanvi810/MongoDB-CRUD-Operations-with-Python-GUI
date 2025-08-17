@@ -7,6 +7,9 @@ It enables users to add, view, update, and delete product-related records such a
 This project focuses on developing a Tech Products App with integrated CRUD (Create, Read, Update, Delete) operations using Python Tkinter for the graphical interface and MongoDB as the database. The application is designed to manage a Tech Product Database that stores essential details such as Product Name, Customer Name, Email, Phone, Age, and Gender. Users can easily insert new records, view all data in a tabular format, update existing entries, and delete unwanted records. The GUI is user-friendly, allowing smooth interaction with the database without requiring direct MongoDB queries.
 The implementation of this CRUD module demonstrates how Python and MongoDB can be combined to build a simple yet efficient database-driven desktop application. It highlights the importance of database management in real-world software systems and serves as the foundation for scaling the Tech Products App with advanced features such as authentication, search filters, and product categorization in the future.
 
+*Video*
+https://drive.google.com/drive/folders/1FdDXRH7kM4NOgPJkAziumkDS0rk142mE?usp=drive_link
+
 
 *OUTPUT*
 <img width="1126" height="785" alt="Image" src="https://github.com/user-attachments/assets/2d58fc4c-efab-4c8d-bac8-fd9693813ba4" />
