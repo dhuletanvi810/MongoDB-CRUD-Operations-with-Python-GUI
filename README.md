@@ -9,3 +9,10 @@ The implementation of this CRUD module demonstrates how Python and MongoDB can b
 
 
 *OUTPUT*
+<img width="1126" height="785" alt="Image" src="https://github.com/user-attachments/assets/2d58fc4c-efab-4c8d-bac8-fd9693813ba4" />
+<img width="1767" height="1008" alt="Image" src="https://github.com/user-attachments/assets/4e49b757-ec81-46c0-ba54-63244953a684" />
+<img width="1118" height="783" alt="Image" src="https://github.com/user-attachments/assets/2f875ac8-afd1-422c-9ba0-ed082625a373" />
+<img width="1766" height="1004" alt="Image" src="https://github.com/user-attachments/assets/a3f45d7e-8731-4067-936c-3b1aa6cd4f2d" />
+<img width="1116" height="779" alt="Image" src="https://github.com/user-attachments/assets/44c6906c-5323-4aa5-8686-a2ccfd549178" />
+<img width="1118" height="784" alt="Image" src="https://github.com/user-attachments/assets/be667d06-82cf-4286-93e5-bafee612dd98" />
+<img width="1753" height="992" alt="Image" src="https://github.com/user-attachments/assets/d572dec6-d1da-4441-af44-697d33ea6d3e" />
